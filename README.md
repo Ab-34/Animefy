@@ -11,3 +11,6 @@ Photo filter made using OpenCV to toonify your Images, which is being implemente
 
 ### Results:
 
+Before passing through the model:
+![Alt text](/before.jpg?raw=true "Before")
+
